@@ -1,4 +1,4 @@
-# 🎙️ Voice Command Calculator
+# 🎙️ Voice Calculator
 
 A Python-based voice calculator that allows users to perform mathematical calculations using natural voice commands. It supports both **voice mode** and **text mode**, making it easy to use even when a microphone is unavailable.
 
